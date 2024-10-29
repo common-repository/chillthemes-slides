@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ChillThemes Portfolio\n"
+"POT-Creation-Date: 2013-06-11 12:50-0600\n"
+"PO-Revision-Date: 2013-06-11 12:50-0600\n"
+"Last-Translator: Matt Adams\n"
+"Language-Team: ChillThemes <matt@chillthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: portfolio.php:79
+msgid "Portfolio"
+msgstr ""
+
+#: portfolio.php:80
+msgid "Portfolio Item"
+msgstr ""
+
+#: portfolio.php:81
+msgid "Portfolio Items"
+msgstr ""
+
+#: portfolio.php:82
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: portfolio.php:83
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: portfolio.php:84
+msgid "New Portfolio Item"
+msgstr ""
+
+#: portfolio.php:85
+msgid "View Portfolio Item"
+msgstr ""
+
+#: portfolio.php:86
+msgid "Search Portfolio"
+msgstr ""
+
+#: portfolio.php:87
+msgid "No portfolio items found"
+msgstr ""
+
+#: portfolio.php:88
+msgid "No portfolio items in trash"
+msgstr ""
+
+#: portfolio.php:114 portfolio.php:127
+msgid "Portfolio Roles"
+msgstr ""
+
+#: portfolio.php:115
+msgid "Role"
+msgstr ""
+
+#: portfolio.php:116
+msgid "Search Roles"
+msgstr ""
+
+#: portfolio.php:117
+msgid "All Roles"
+msgstr ""
+
+#: portfolio.php:118
+msgid "Edit Role"
+msgstr ""
+
+#: portfolio.php:119
+msgid "Update Role"
+msgstr ""
+
+#: portfolio.php:120
+msgid "Add New Role"
+msgstr ""
+
+#: portfolio.php:121
+msgid "New Role Name"
+msgstr ""
+
+#: portfolio.php:124
+msgid ""
+"Separate roles with commas. Roles are used to describe the type of services "
+"involved in a project. For example: wireframing, designing, and coding."
+msgstr ""
+
+#: portfolio.php:125
+msgid "Add or remove roles"
+msgstr ""
+
+#: portfolio.php:126
+msgid "Choose from the most used roles"
+msgstr ""
+
+#: portfolio.php:150 portfolio.php:163
+msgid "Portfolio Types"
+msgstr ""
+
+#: portfolio.php:151
+msgid "Type"
+msgstr ""
+
+#: portfolio.php:152
+msgid "Search Types"
+msgstr ""
+
+#: portfolio.php:153
+msgid "All Types"
+msgstr ""
+
+#: portfolio.php:154
+msgid "Edit Type"
+msgstr ""
+
+#: portfolio.php:155
+msgid "Update Type"
+msgstr ""
+
+#: portfolio.php:156
+msgid "Add New Type"
+msgstr ""
+
+#: portfolio.php:157
+msgid "New Type Name"
+msgstr ""
+
+#: portfolio.php:160
+msgid ""
+"Separate types with commas. Types are used to describe the project type. For "
+"example: residential, commercial, and government."
+msgstr ""
+
+#: portfolio.php:161
+msgid "Add or remove types"
+msgstr ""
+
+#: portfolio.php:162
+msgid "Choose from the most used types"
+msgstr ""
+
+#: portfolio.php:190
+msgid "Project Title"
+msgstr ""
+
+#: portfolio.php:191
+msgid "Project Role"
+msgstr ""
+
+#: portfolio.php:192
+msgid "Project Type"
+msgstr ""
+
+#: portfolio.php:193
+msgid "Project Image"
+msgstr ""
+
+#: portfolio.php:232
+msgid "No Role Assigned"
+msgstr ""
+
+#: portfolio.php:262
+msgid "No Type Assigned"
+msgstr ""
